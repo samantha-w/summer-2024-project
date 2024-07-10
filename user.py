@@ -58,3 +58,11 @@ print(user_2.__dict__)
 
 user_3 = Cashier("jasmine", "jasmine@int.com", 772)
 print(user_3.__dict__)
+
+## Test 4 : checking commit 
+user_4 = Cashier("sam", "jasmine@int.com", 772)
+print(user_3.__dict__)
+
+
+
+
